@@ -13,6 +13,8 @@
 <br />
 <br />
 
+![Kristian Kramer](kristian-og-banner.png)
+
 ### I'm a 15 year old full stack programmer, crypto founder, entrepreneur, CEO, and more based in Aurora Colorado
 
 🙌 Going beyond the impossible.
