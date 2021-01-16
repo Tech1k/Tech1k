@@ -13,7 +13,7 @@
 <br />
 <br />
 
-### I'm a 15 year old Full Stack Programmer, crypto founder, entrepreneur, CEO, and more based in Aurora Colorado
+### I'm a 15 year old full stack programmer, crypto founder, entrepreneur, CEO, and more based in Aurora Colorado
 
 🙌 Going beyond the impossible.
 
