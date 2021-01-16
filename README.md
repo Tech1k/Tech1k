@@ -20,7 +20,7 @@
 - 🔧  Founder of [Beyondcoin.io](https://beyondcoin.io), a cryptocurrency going beyond.
 - ⌨️  CEO of BeyondData, a low expense datacenter company.
 - ⌨️  CEO of Beyondgames, a multi-platform game studio.
-- 💡  MOST RECENT PROJECT: [Beyondcoin](https://github.com/beyondcoin-project), A cryptocurrency going beyond the impossible.
+- 💡  Most recent project: [Beyondcoin](https://github.com/beyondcoin-project), A cryptocurrency going beyond the impossible.
 - 🌱  Currently learning Golang and Rust.
 
 <br />
