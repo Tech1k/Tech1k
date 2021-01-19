@@ -19,7 +19,7 @@
 
 🙌 Going beyond the impossible.
 
-- 🔧  Founder of [Beyondcoin.io](https://beyondcoin.io), a cryptocurrency going beyond.
+- 🔧  CEO, CTO, and Founder of [Beyondcoin.io](https://beyondcoin.io), a cryptocurrency going beyond.
 - ⌨️  CEO of BeyondData, a low expense datacenter company.
 - ⌨️  CEO of Beyondgames, a multi-platform game studio.
 - 💡  Most recent project: [Beyondcoin](https://github.com/beyondcoin-project), A cryptocurrency going beyond the impossible.
