@@ -13,6 +13,7 @@
   <img align="left" alt="Email" width="30px" src="https://kristian-kramer.com/assets/img/mail.png" />
 </a>
 <br />
+<br />
 
 ![Kristian Kramer](kristian-og-banner-github.png)
 
