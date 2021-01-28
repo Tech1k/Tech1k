@@ -20,16 +20,15 @@
 
 ![Kristian Kramer](kristian-og-banner-github.png)
 
-### I'm a 15 year old full stack programmer, crypto founder, entrepreneur, CEO, and more based in Aurora Colorado
+### I'm a 15 year old full stack programmer, crypto founder, entrepreneur, CEO, CTO, and more based in Aurora Colorado
 
-🙌 Going beyond the impossible.
+🚀 Going beyond the impossible.
 
 - 🔧  CEO, CTO, and Founder of [Beyondcoin.io](https://beyondcoin.io), a cryptocurrency going beyond.
-- ⌨️  CEO of BeyondData, a low expense datacenter company.
-- ⌨️  CEO of Beyondgames, a multi-platform game studio.
+- ⌨️  CEO of BeyondGames, a multi-platform game studio.
 - ⌨️  Former member of the Litecoin Foundation.
-- 💡  Most recent project: [Beyondcoin](https://github.com/beyondcoin-project), a cryptocurrency that is going beyond the impossible.
-- 🌱  Currently learning Golang and Rust.
+- 💡   Most recent project: [Beyondcoin](https://github.com/beyondcoin-project), a cryptocurrency that is going beyond the impossible.
+- 🌱  Currently learning Golang, Rust, and assembly.
 
 ### ⚡️ Skills
 - Experienced in C++, C, C#, Java, JavaScript, PHP, Bash, and more. 
