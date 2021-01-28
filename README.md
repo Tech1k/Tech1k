@@ -38,10 +38,11 @@
 
 | Projects | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Beyondcoin](https://beyondcoin.io) ⚡️ | A cryptocurrency going beyond the impossible. | CEO/CTO/Founder |
-| [BeyondGames](https://beyondgames.io) ⚡️ | A multi-platfrom game studio going beyond. | CEO |
-| [Testnet Faucet](https://testnet-faucet.com) ⚡️ | A multi-coin testnet faucet for developers. | Owner |
-| [Testnet Pool](https://testnetpool.com) ⚡️ | The first public multi-coin testnet mining pool. | Owner |
+| [Beyondcoin](https://beyondcoin.io) | A cryptocurrency going beyond the impossible. | CEO/CTO/Founder |
+| [BeyondGames](https://beyondgames.io) | A multi-platfrom game studio going beyond. | CEO |
+| [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers. | Owner |
+| [Testnet Pool](https://testnetpool.com) | The first public multi-coin testnet mining pool. | Owner |
+| [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Webmaster and contributor |
 
 ### 📈 GitHub Stats
 
