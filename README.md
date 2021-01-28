@@ -13,7 +13,7 @@
 <br />
 <br />
 
-![Kristian Kramer](kristian-og-banner.png)
+![Kristian Kramer](kristian-og-banner-github.png)
 
 ### I'm a 15 year old full stack programmer, crypto founder, entrepreneur, CEO, and more based in Aurora Colorado
 
