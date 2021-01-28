@@ -36,12 +36,12 @@
 - Web development expereience with HTML, CSS, JQuery, and more.
 - Technologies include Firebase/FlutterFire, Firestore, TensorFlow, and other ML platforms.
 
-| Projects | Info |
-|--------------------------------------------------|------------------------------------------------------------------------------------------------|
-| [Beyondcoin](https://beyondcoin.io) ⚡️ | A cryptocurrency going beyond the impossible. |
-| [BeyondGames](https://beyondgames.io) ⚡️ | A multi-platfrom game studio going beyond. |
-| [Testnet Faucet](https://testnet-faucet.com) ⚡️ | A multi-coin testnet faucet for developers. |
-| [Testnet Pool](https://testnetpool.com) ⚡️ | The first public multi-coin testnet mining pool. |
+| Projects | Info | Occupation |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Beyondcoin](https://beyondcoin.io) ⚡️ | A cryptocurrency going beyond the impossible. | CEO/CTO/Founder |
+| [BeyondGames](https://beyondgames.io) ⚡️ | A multi-platfrom game studio going beyond. | CEO |
+| [Testnet Faucet](https://testnet-faucet.com) ⚡️ | A multi-coin testnet faucet for developers. | Owner |
+| [Testnet Pool](https://testnetpool.com) ⚡️ | The first public multi-coin testnet mining pool. | Owner |
 
 ### 📈 Stats
 
