@@ -1,6 +1,5 @@
 # __Hello, I'm [Kristian!](https://kristian-kramer.com)__ 👋
 
-<br/>
 <a href="https://twitter.com/kristianjkramer">
   <img align="left" alt="Mark Music| Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />
 </a>
