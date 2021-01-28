@@ -34,7 +34,8 @@
 ### ⚡️ Skills
 - Experienced in C++, C, C#, Java, JavaScript, PHP, Bash, and more. 
 - Web development expereience with HTML, CSS, JQuery, and more.
-- Technologies include Firebase/FlutterFire, Firestore, TensorFlow, and other ML platforms.
+- Machine learning technologies include: Firebase, TensorFlow, and other platforms.
+- Database experience with MySQL, SQL, SQLite, LevelDB, Redius, and MongoDB.
 
 | Projects | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
