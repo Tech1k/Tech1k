@@ -36,7 +36,7 @@
 | [BeyondGames](https://beyondgames.io) ⚡️ | A multi-platfrom game studio going beyond. |
 
 
-### <summary>Stats</summary>
+### 📈 Stats
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tech1k&show_icons=true?count_private=true&theme=algolia" alt="github stats" />
