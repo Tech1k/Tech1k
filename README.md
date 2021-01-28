@@ -43,7 +43,7 @@
 | [Testnet Faucet](https://testnet-faucet.com) ⚡️ | A multi-coin testnet faucet for developers. | Owner |
 | [Testnet Pool](https://testnetpool.com) ⚡️ | The first public multi-coin testnet mining pool. | Owner |
 
-### 📈 Stats
+### 📈 GitHub Stats
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tech1k&show_icons=true?count_private=true&theme=algolia" alt="github stats" />
