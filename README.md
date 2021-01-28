@@ -1,4 +1,4 @@
-# __Hi, I'm [Kristian!](https://kristian-kramer.com)__ 👋
+# __Hello, I'm [Kristian!](https://kristian-kramer.com)__ 👋
 
 <br/>
 <a href="https://twitter.com/kristianjkramer">
