@@ -27,6 +27,7 @@
 - 🔧  CEO, CTO, and Founder of [Beyondcoin.io](https://beyondcoin.io), a cryptocurrency going beyond.
 - ⌨️  CEO of BeyondData, a low expense datacenter company.
 - ⌨️  CEO of Beyondgames, a multi-platform game studio.
+- ⌨️  Former member of the Litecoin Foundation.
 - 💡  Most recent project: [Beyondcoin](https://github.com/beyondcoin-project), a cryptocurrency that is going beyond the impossible.
 - 🌱  Currently learning Golang and Rust.
 
@@ -35,11 +36,12 @@
 - Web development expereience with HTML, CSS, JQuery, and more.
 - Technologies include Firebase/FlutterFire, Firestore, TensorFlow, and other ML platforms.
 
-| Projects 🚧 | Info ℹ️ |
+| Projects | Info |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [Beyondcoin](https://beyondcoin.io) ⚡️ | A cryptocurrency going beyond the impossible. |
 | [BeyondGames](https://beyondgames.io) ⚡️ | A multi-platfrom game studio going beyond. |
-
+| [Testnet Faucet](https://testnet-faucet.com) ⚡️ | A multi-coin testnet faucet for developers. |
+| [Testnet Pool](https://testnetpool.com) ⚡️ | The first public multi-coin testnet mining pool. |
 
 ### 📈 Stats
 
