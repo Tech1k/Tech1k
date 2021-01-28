@@ -10,7 +10,7 @@
   <img align="left" alt="Linkedin" width="30px" src="https://kristian-kramer.com/assets/img/linkedin.png" />
 </a>
 <a href="https://reddit.com/u/tech1k">
-  <img align="left" alt="Reddit" width="30px" src="https://kristian-kramer.com/assets/img/reddit.png" />
+  <img align="left" alt="Reddit" width="30px" src="https://kristian-kramer.com/assets/img/reddit_1.png" />
 </a>
 <a href="mailto:kristian@beyondcoin.io">
   <img align="left" alt="Email" width="30px" src="https://kristian-kramer.com/assets/img/mail.png" />
