@@ -1,15 +1,17 @@
 # __Hello, I'm [Kristian!](https://kristian-kramer.com)__ 👋
 
+<a href="https://kristian-kramer.com">
+  <img align="left" alt="Website" width="30px" src="https://kristian-kramer.com/assets/img/website.png" />
+</a>
 <a href="https://twitter.com/kristianjkramer">
-  <img align="left" alt="Mark Music| Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />
+  <img align="left" alt="Twitter" width="30px" src="https://kristian-kramer.com/assets/img/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/kristian-kramer/">
-  <img align="left" alt="Linkedin" width="30px" src="https://i.ibb.co/s2Hzm4t/61109.png" />
+  <img align="left" alt="Linkedin" width="30px" src="https://kristian-kramer.com/assets/img/linkedin.png" />
 </a>
 <a href="mailto:kristian@beyondcoin.io">
-  <img align="left" alt="Email" width="30px" src="https://i.ibb.co/FB5PR40/mail.png" />
+  <img align="left" alt="Email" width="30px" src="https://kristian-kramer.com/assets/img/mail.png" />
 </a>
-<br />
 <br />
 
 ![Kristian Kramer](kristian-og-banner-github.png)
