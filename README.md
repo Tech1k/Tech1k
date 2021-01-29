@@ -24,7 +24,7 @@
 
 🚀 Going beyond the impossible.
 
-- 🔧  CEO, CTO, and Founder of [Beyondcoin.io](https://beyondcoin.io), a cryptocurrency going beyond.
+- ⌨️  CEO, CTO, and Founder of [Beyondcoin.io](https://beyondcoin.io), a cryptocurrency going beyond.
 - ⌨️  CEO of BeyondGames, a multi-platform game studio.
 - ⌨️  Former member of the Litecoin Foundation.
 - 💡   Most recent project: [Beyondcoin](https://github.com/beyondcoin-project), a cryptocurrency that is going beyond the impossible.
@@ -35,6 +35,7 @@
 - Web development expereience with HTML, CSS, JQuery, and more.
 - Machine learning technologies include: Firebase, TensorFlow, and other platforms.
 - Database experience with MySQL, SQL, SQLite, LevelDB, Redius, and MongoDB.
+- Knows everything about blockchain and a lot about cryptography.
 
 | Projects | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
