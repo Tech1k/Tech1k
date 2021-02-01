@@ -30,7 +30,7 @@
 - 💡   Most recent project: [Beyondcoin](https://github.com/beyondcoin-project), a cryptocurrency that is going beyond the impossible.
 - 🌱  Currently learning Golang, Rust, and assembly.
 
-### ⚡️ Skills
+### ⚡️ Technical Skills
 - Experienced in C++, C, C#, Java, JavaScript, PHP, Bash, and more. 
 - Web development expereience with HTML, CSS, JQuery, and more.
 - Machine learning technologies include: Firebase, TensorFlow, and other platforms.
