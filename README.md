@@ -12,7 +12,7 @@
 <a href="https://reddit.com/u/tech1k">
   <img align="left" alt="Reddit" width="30px" src="https://kristian-kramer.com/assets/img/reddit.png" />
 </a>
-<a href="mailto:kristian@beyondcoin.io">
+<a href="mailto:hello@kristian-kramer.com">
   <img align="left" alt="Email" width="30px" src="https://kristian-kramer.com/assets/img/mail.png" />
 </a>
 <br />
@@ -62,6 +62,9 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech1k&layout=compact&theme=algolia" alt="github stats" />
 </a>
+
+### Have a question? Want to collaborate? Looking for a developer?
+#### Send me an email: <a href="mailto:hello@kristian-kramer.com">hello@kristian-kramer.com</a>
 
 <br />
 <br />
