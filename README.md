@@ -37,14 +37,6 @@
 - Database experience with MySQL, SQL, SQLite, LevelDB, Redius, and MongoDB.
 - Knows everything about blockchain and a lot about cryptography.
 
-| Projects | Info | Occupation |
-|--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Beyondcoin](https://beyondcoin.io) | A cryptocurrency going beyond the impossible. | CEO/CTO/Founder |
-| [BeyondGames](https://beyondgames.io) | A multi-platfrom game studio going beyond. | CEO |
-| [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers. | Owner |
-| [Testnet Pool](https://testnetpool.com) | The first public multi-coin testnet mining pool. | Owner |
-| [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Webmaster and contributor |
-
 ### 🌐 Links
 
 - Website: <a href="https://kristian-kramer.com" target="_blank">kristian-kramer.com</a>
@@ -52,6 +44,15 @@
 - Reddit: <a href="https://reddit.com/u/tech1k" target="_blank">@Tech1k</a>
 - Linkedin: <a href="https://linkedin.com/in/kristian-kramer" target="_blank">Kristian Kramer</a>
 - Medium: <a href="https://medium.com/@kristianjkramer" target="_blank">@KristianJKramer</a>
+
+### Projects I'm involved in
+| Projects | Info | Occupation |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Beyondcoin](https://beyondcoin.io) | A cryptocurrency going beyond the impossible. | CEO/CTO/Founder |
+| [BeyondGames](https://beyondgames.io) | A multi-platfrom game studio going beyond. | CEO |
+| [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers. | Owner |
+| [Testnet Pool](https://testnetpool.com) | The first public multi-coin testnet mining pool. | Owner |
+| [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Webmaster and contributor |
 
 ### 📈 Stats
 
