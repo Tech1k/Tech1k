@@ -45,7 +45,7 @@
 | [Testnet Pool](https://testnetpool.com) | The first public multi-coin testnet mining pool. | Owner |
 | [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Webmaster and contributor |
 
-### 📈 GitHub Stats
+### 📈 Stats
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tech1k&show_icons=true?count_private=true&theme=algolia" alt="github stats" />
