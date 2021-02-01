@@ -47,10 +47,10 @@
 
 ### 📈 GitHub Stats
 
-<a href="">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tech1k&show_icons=true?count_private=true&theme=algolia" alt="github stats" />
 </a>
-<a href="">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech1k&layout=compact&theme=algolia" alt="github stats" />
 </a>
 
