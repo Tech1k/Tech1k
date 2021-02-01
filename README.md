@@ -45,7 +45,7 @@
 - Linkedin: <a href="https://linkedin.com/in/kristian-kramer" target="_blank">Kristian Kramer</a>
 - Medium: <a href="https://medium.com/@kristianjkramer" target="_blank">@KristianJKramer</a>
 
-### Projects I'm involved in
+### Projects I'm currently involved in
 | Projects | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [Beyondcoin](https://beyondcoin.io) | A cryptocurrency going beyond the impossible. | CEO/CTO/Founder |
