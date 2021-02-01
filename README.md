@@ -45,6 +45,14 @@
 | [Testnet Pool](https://testnetpool.com) | The first public multi-coin testnet mining pool. | Owner |
 | [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Webmaster and contributor |
 
+### 🌐 Links
+
+- Website: <a href="https://kristian-kramer.com" target="_blank">kristian-kramer.com</a>
+- Twitter: <a href="https://twitter.com/kristianjkramer" target="_blank">@KristianJKramer</a>
+- Reddit: <a href="https://reddit.com/u/tech1k" target="_blank">@Tech1k</a>
+- Linkedin: <a href="https://linkedin.com/in/kristian-kramer" target="_blank">Kristian Kramer</a>
+- Medium: <a href="https://medium.com/@kristianjkramer" target="_blank">@KristianJKramer</a>
+
 ### 📈 Stats
 
 <a href="#">
