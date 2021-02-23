@@ -65,4 +65,4 @@
 </a>
 
 ### Have a question? Want to collaborate? Looking for a developer?
-#### Send me an email: <a href="mailto:hello@kristian-kramer.com">hello@kristian-kramer.com</a>
+#### Send me an email: <a href="mailto:hello@kristian-kramer.com">hello@kristian-kramer.com</a> or contact me on my <a href="https://kristian-kramer.com/#contact">website</a>
