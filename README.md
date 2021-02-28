@@ -1,4 +1,4 @@
-# __Hello, I'm [Kristian!](https://kristian-kramer.com)__ 👋
+# __Hello, I'm [Kristian](https://kristian-kramer.com)!__ 👋
 
 <a href="https://kristian-kramer.com">
   <img align="left" alt="Website" width="30px" src="https://kristian-kramer.com/assets/img/website.png" />
