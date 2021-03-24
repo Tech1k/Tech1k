@@ -1,19 +1,19 @@
 # __Hello, I'm [Kristian](https://kristian-kramer.com)!__ 👋
 
 <a href="https://kristian-kramer.com">
-  <img align="left" alt="Website" width="30px" src="https://kristian-kramer.com/assets/img/website.png" />
+  <img align="left" alt="Website" width="30px" height="30px" src="https://kristian-kramer.com/assets/img/website.png" />
 </a>
 <a href="https://twitter.com/kristianjkramer">
-  <img align="left" alt="Twitter" width="30px" src="https://kristian-kramer.com/assets/img/twitter.png" />
+  <img align="left" alt="Twitter" width="30px" height="30px" src="https://kristian-kramer.com/assets/img/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/kristian-kramer/">
-  <img align="left" alt="Linkedin" width="30px" src="https://kristian-kramer.com/assets/img/linkedin.png" />
+  <img align="left" alt="Linkedin" width="30px" height="30px" src="https://kristian-kramer.com/assets/img/linkedin.png" />
 </a>
 <a href="https://reddit.com/u/tech1k">
-  <img align="left" alt="Reddit" width="30px" src="https://kristian-kramer.com/assets/img/reddit.png" />
+  <img align="left" alt="Reddit" width="30px" height="30px" src="https://kristian-kramer.com/assets/img/reddit.png" />
 </a>
 <a href="mailto:hello@kristian-kramer.com">
-  <img align="left" alt="Email" width="30px" src="https://kristian-kramer.com/assets/img/mail.png" />
+  <img align="left" alt="Email" width="30px" height="30px" src="https://kristian-kramer.com/assets/img/mail.png" />
 </a>
 <br />
 <br />
