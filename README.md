@@ -48,11 +48,12 @@
 ### Projects I'm currently involved in
 | Projects | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Catboys.com](https://catboys.com) | Catboys and Yaoi! | Creator |
+| [Catbot](https://catbot.dev) | A verified Discord bot for neko lovers! | Creator |
 | [Beyondcoin](https://beyondcoin.io) | A cryptocurrency going beyond the impossible. | CEO/CTO/Founder |
 | [BeyondNodes](https://beyondnodes.net) | Hosting servers for many popular games. | CEO & Owner | 
 | [BeyondGames](https://beyondgames.io) | A multi-platfrom game studio going beyond. | CEO |
 | [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers. | Owner |
-| [Testnet Pool](https://testnetpool.com) | The first public multi-coin testnet mining pool. | Owner |
 | [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Webmaster and contributor |
 
 ### 📈 Public Stats
