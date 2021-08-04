@@ -35,7 +35,7 @@
 - Web development expereience with HTML, CSS, JQuery, and more.
 - Machine learning technologies include: Firebase, TensorFlow, and other platforms.
 - Database experience with MySQL, SQL, SQLite, LevelDB, Redius, and MongoDB.
-- Knows everything about blockchain and a lot about cryptography.
+- Knows practically everything about blockchain and a lot about cryptography.
 
 ### 🌐 Links
 
