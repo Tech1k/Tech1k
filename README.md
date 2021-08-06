@@ -1,5 +1,7 @@
 # __Hello, I'm [Kristian](https://kristian-kramer.com)!__ 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tech1k&label=Profile%20views&color=0e75b6&style=flat" alt="Tech1k" /> </p>
+
 <a href="https://kristian-kramer.com">
   <img align="left" alt="Website" width="30px" height="30px" src="https://kristian-kramer.com/assets/img/website.png" />
 </a>
