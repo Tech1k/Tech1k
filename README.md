@@ -1,4 +1,5 @@
-# __Hello, I'm [Kristian](https://kristian-kramer.com)!__ 👋
+<h1 align="left">Hello, I'm Kristian 👋</h1>
+<h3 align="left">Going beyond the impossible 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tech1k&label=Profile%20views&color=0e75b6&style=flat" alt="Tech1k" /> </p>
 
@@ -23,8 +24,6 @@
 ![Kristian Kramer](kristian-og-banner-github.png)
 
 ### I'm a 16 year old full stack programmer, crypto founder, entrepreneur, CEO, CTO, and more based in Aurora Colorado
-
-🚀 Going beyond the impossible.
 
 - ⌨️  CEO, CTO, and Founder of [Beyondcoin](https://beyondcoin.io), a cryptocurrency going beyond.
 - ⌨️  CEO of BeyondGames, a multi-platform game studio.
