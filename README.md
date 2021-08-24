@@ -55,7 +55,7 @@
 | [BeyondNodes](https://beyondnodes.net) | Hosting servers for many popular games. | CEO & Owner | 
 | [BeyondGames](https://beyondgames.io) | A multi-platfrom game studio going beyond. | CEO |
 | [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers. | Owner |
-| [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Webmaster and developer |
+| [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Lead Webmaster and Developer |
 
 ### 📈 Public Stats
 
