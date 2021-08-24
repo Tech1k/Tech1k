@@ -33,7 +33,7 @@
 
 ### ⚡️ Technical Skills
 - Experienced in C++, C, C#, Java, JavaScript, PHP, Bash, and more. 
-- Web development expereience with HTML, CSS, JQuery, and more.
+- Web development experience with HTML, CSS, JQuery, and more.
 - Machine learning technologies include: Firebase, TensorFlow, and other platforms.
 - Database experience with MySQL, SQL, SQLite, LevelDB, Redius, and MongoDB.
 - Knows practically everything about blockchain and a lot about cryptography.
