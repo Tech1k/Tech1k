@@ -62,6 +62,11 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tech1k&show_icons=true?count_private=true&theme=algolia" alt="github stats" />
 </a>
+<br/><br/>
+<a href="#">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tech1k&theme=dark" alt="github streak stats" />
+</a>
+
 
 ### Have a question? Want to collaborate? Looking for a developer?
 #### Send me an email: <a href="mailto:hello@kristian-kramer.com">hello@kristian-kramer.com</a> or contact me on my <a href="https://kristian-kramer.com/#contact">website</a>
