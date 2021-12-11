@@ -49,7 +49,7 @@
 ### Projects I'm currently involved in
 | Projects | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Catboys.com](https://catboys.com) | Catboys and Yaoi! | Creator |
+| [Catboys.com](https://catboys.com) | Catboys! | Creator |
 | [Catbot](https://catbot.dev) | A verified Discord bot for neko lovers! | Creator |
 | [Beyondcoin](https://beyondcoin.io) | A cryptocurrency going beyond the impossible. | CEO/CTO/Founder |
 | [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Lead Webmaster and Developer |
