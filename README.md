@@ -28,7 +28,7 @@
 - ⌨️  CEO, CTO, and Founder of [Beyondcoin](https://beyondcoin.io), a cryptocurrency going beyond.
 - ⌨️  CEO of BeyondGames, a multi-platform game studio.
 - ⌨️  Former member of the Litecoin Foundation.
-- 💡   Most recent project: [Beyondcoin](https://github.com/beyondcoin-project), a cryptocurrency that is going beyond the impossible.
+- 💡   Most recent project: [HelloESP](https://helloesp.com), a website fully hosted off of an ESP32.
 - 🌱  Currently learning Golang, Rust, and assembly.
 
 ### ⚡️ Technical Skills
@@ -49,6 +49,7 @@
 ### Projects I'm currently involved in
 | Projects | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| [HelloESP.com](https://helloesp.com) | A website hosted on an ESP32! | Creator |
 | [Catboys.com](https://catboys.com) | Catboys! | Creator |
 | [Catbot](https://catbot.dev) | A verified Discord bot for neko lovers! | Creator |
 | [Beyondcoin](https://beyondcoin.io) | A cryptocurrency going beyond the impossible. | CEO/CTO/Founder |
