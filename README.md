@@ -23,7 +23,7 @@
 
 ![Kristian Kramer](kristian-og-banner-github.png)
 
-### I'm a 16 year old full stack programmer, crypto founder, entrepreneur, CEO, CTO, and more based in Aurora Colorado
+### I'm a 17 year old full stack programmer, crypto founder, entrepreneur, CEO, CTO, and more based in Aurora Colorado
 
 - ⌨️  CEO, CTO, and Founder of [Beyondcoin](https://beyondcoin.io), a cryptocurrency going beyond.
 - ⌨️  CEO of BeyondGames, a multi-platform game studio.
