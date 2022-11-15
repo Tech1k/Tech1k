@@ -74,7 +74,7 @@
 ### Like what I'm doing and want to support me?
 #### <a href="https://kk.dev/donate">My donations page</a>
 
-<a href="https://www.buymeacoffee.com/kristiankramer" target="_blank"><img src="https://kk.dev/assets/images/patreon-button.png" alt="Patreon" width="175"></a>
+<a href="https://www.patreon.com/kristiankramer" target="_blank"><img src="https://kk.dev/assets/images/patreon-button.png" alt="Patreon" width="175"></a>
 
 <a href="https://www.buymeacoffee.com/kristiankramer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="175"></a>
 
