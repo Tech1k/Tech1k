@@ -26,10 +26,9 @@
 ### I'm a 17 year old full stack programmer, crypto founder, entrepreneur, CEO, CTO, and more based in Aurora Colorado
 
 - ⌨️  CEO, CTO, and Founder of [Beyondcoin](https://beyondcoin.io), a cryptocurrency going beyond.
-- ⌨️  CEO of BeyondGames, a multi-platform game studio.
 - ⌨️  Former member of the Litecoin Foundation.
 - 💡   Most recent project: [HelloESP](https://helloesp.com), a website fully hosted off of an ESP32.
-- 🌱  Currently learning Golang, Rust, and assembly.
+- 🌱  Currently learning Golang and Rust.
 
 ### ⚡️ Technical Skills
 - Experienced in C++, C, C#, Java, JavaScript, PHP, Bash, and more. 
