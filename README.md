@@ -23,12 +23,7 @@
 
 ![Kristian Kramer](kristian-og-banner-github.png)
 
-### I'm a 17 year old full stack programmer, crypto founder, entrepreneur, CEO, CTO, and more based in Aurora Colorado
-
-- ⌨️  CEO, CTO, and Founder of [Beyondcoin](https://beyondcoin.io), a cryptocurrency going beyond.
-- ⌨️  Former member of the Litecoin Foundation.
-- 💡   Most recent project: [HelloESP](https://helloesp.com), a website fully hosted off of an ESP32.
-- 🌱  Currently learning Golang and Rust.
+### I'm a 17 year old full stack programmer and more based in Colorado
 
 ### ⚡️ Technical Skills
 - Experienced in C++, C, C#, Java, JavaScript, PHP, Bash, and more. 
@@ -49,13 +44,10 @@
 | Projects | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [HelloESP.com](https://helloesp.com) | A website hosted on an ESP32! | Creator |
-| [Catboys.com](https://catboys.com) | Catboys! | Creator |
-| [Catbot](https://catbot.dev) | A verified Discord bot for neko lovers! | Creator |
-| [Beyondcoin](https://beyondcoin.io) | A cryptocurrency going beyond the impossible. | CEO/CTO/Founder |
+| [Catbot](https://catbot.dev) | A verified Discord bot for anime enjoyers! | Creator |
 | [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Lead Webmaster and Developer |
-| [BeyondNodes](https://beyondnodes.com) | Hosting servers for many popular games. | CEO & Owner | 
+| [BeyondNodes](https://beyondnodes.com) | Hosting servers for many popular games. | Owner | 
 | [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers. | Owner |
-| [NoteBin](https://notebin.xyz) | A simple web-based notepad and privatebin instance | Creator
 
 ### 📈 Public Stats
 
