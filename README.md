@@ -21,7 +21,7 @@
 <br />
 <br />
 
-![Kristian Kramer](kristian-og-banner-github.png)
+![Kristian Kramer](kristian-og-banner-github.png?v=2)
 
 ### I'm a 17 year old full stack programmer and more based in Colorado
 
