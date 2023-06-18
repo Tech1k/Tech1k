@@ -23,7 +23,7 @@
 
 ![Kristian Kramer](kristian-og-banner-github.png?v=2)
 
-### I'm a 18 year old full stack programmer and more based in Colorado
+### I'm an 18 year old full stack programmer and more based in Colorado
 
 ### ⚡️ Technical Skills
 - Experienced in C++, C, C#, Java, JavaScript, PHP, Bash, and more. 
