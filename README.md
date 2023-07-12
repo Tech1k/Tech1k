@@ -44,9 +44,7 @@
 | Projects | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [HelloESP.com](https://helloesp.com) | A website hosted on an ESP32! | Creator |
-| [Catbot](https://catbot.dev) | A verified Discord bot for anime enjoyers! | Creator |
-| [Duinocoin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Lead Webmaster and Developer |
-| [BeyondNodes](https://beyondnodes.com) | Hosting servers for many popular games. | Owner | 
+| [Duino-Coin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Lead Webmaster and Developer |
 | [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers. | Owner |
 
 I have many other projects that are not listed here.
