@@ -69,3 +69,5 @@ I have many other projects that are not listed here.
 
 <a href="https://www.buymeacoffee.com/kristiankramer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="175"></a>
 
+<a href="https://ko-fi.com/KristianKramer" target="_blank"><img src="https://kk.dev/assets/images/kofi.png" alt="Ko-Fi" width="175"></a>
+
