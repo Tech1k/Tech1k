@@ -43,8 +43,8 @@
 ### 👨‍💻 Projects I'm currently involved in
 | Projects | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers. | Owner |
-| [BeyondFaucet](https://beyondfaucet.com) | Multi-coin faucet for new and experienced crypto users to explore the crypto universe. | Owner |
+| [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers. | Creator |
+| [BeyondFaucet](https://beyondfaucet.com) | Multi-coin faucet for new and experienced crypto users to explore the crypto universe. | Creator |
 | [Duino-Coin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Lead Webmaster and Developer |
 | [HelloESP.com](https://helloesp.com) | A website hosted on an ESP32! | Creator |
 
