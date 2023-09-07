@@ -40,13 +40,13 @@
 - Linkedin: <a href="https://linkedin.com/in/kristian-kramer" target="_blank">Kristian Kramer</a>
 - Medium: <a href="https://medium.com/@kristianjkramer" target="_blank">@KristianJKramer</a>
 
-### 👨‍💻 Projects I'm currently involved in
-| Projects | Info | Occupation |
-|--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers. | Creator |
-| [BeyondFaucet](https://beyondfaucet.com) | Multi-coin faucet for new and experienced crypto users to explore the crypto universe. | Creator |
-| [Duino-Coin](https://duinocoin.com) | A cryptocurrency that can be mined with Arduino boards. | Lead Webmaster and Developer |
-| [HelloESP.com](https://helloesp.com) | A website hosted on an ESP32! | Creator |
+### 👨‍💻 Public projects I'm currently involved in
+| Projects | Info
+|--------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers, helping developers since 2020.
+| [BeyondFaucet](https://beyondfaucet.com) | Multi-coin faucet for new and experienced crypto users to explore the crypto universe.
+| [Duino-Coin](https://duinocoin.com) | A cryptocurrency that can be mined with low-powered microcontrollers such as the Arduino.
+| [HelloESP.com](https://helloesp.com) | A public website hosted on an ESP32 which has been online since 2022.
 
 I have many other projects that are not listed here.
 
