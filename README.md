@@ -3,20 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tech1k&label=Profile%20views&color=0e75b6&style=flat" alt="Tech1k" /> </p>
 
-<a href="https://kk.dev">
-  <img align="left" alt="Website" width="30px" height="30px" src="https://kk.dev/assets/img/website.png" />
+<a href="https://kristiankramer.dev">
+  <img align="left" alt="Website" width="30px" height="30px" src="https://kristiankramer.dev/assets/img/website.png" />
 </a>
 <a href="https://twitter.com/kristianjkramer">
-  <img align="left" alt="Twitter" width="30px" height="30px" src="https://kk.dev/assets/img/twitter.png" />
+  <img align="left" alt="Twitter" width="30px" height="30px" src="https://kristiankramer.dev/assets/img/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/kristian-kramer/">
-  <img align="left" alt="Linkedin" width="30px" height="30px" src="https://kk.dev/assets/img/linkedin.png" />
+  <img align="left" alt="Linkedin" width="30px" height="30px" src="https://kristiankramer.dev/assets/img/linkedin.png" />
 </a>
 <a href="https://reddit.com/u/tech1k">
-  <img align="left" alt="Reddit" width="30px" height="30px" src="https://kk.dev/assets/img/reddit.png" />
+  <img align="left" alt="Reddit" width="30px" height="30px" src="https://kristiankramer.dev/assets/img/reddit.png" />
 </a>
-<a href="mailto:hello@kk.dev">
-  <img align="left" alt="Email" width="30px" height="30px" src="https://kk.dev/assets/img/mail.png" />
+<a href="mailto:hello@kristiankramer.dev">
+  <img align="left" alt="Email" width="30px" height="30px" src="https://kristiankramer.dev/assets/img/mail.png" />
 </a>
 <br />
 <br />
@@ -34,7 +34,7 @@
 
 ### 🌐 Links
 
-- Website: <a href="https://kk.dev" target="_blank">kk.dev</a>
+- Website: <a href="https://kristiankramer.dev" target="_blank">kristiankramer.dev</a>
 - Twitter: <a href="https://twitter.com/kristianjkramer" target="_blank">@KristianJKramer</a>
 - Reddit: <a href="https://reddit.com/u/tech1k" target="_blank">@Tech1k</a>
 - Linkedin: <a href="https://linkedin.com/in/kristian-kramer" target="_blank">Kristian Kramer</a>
@@ -61,9 +61,9 @@ I have many other projects that are not listed here.
 </a>
 
 ### ❔ Have a question, want to collaborate or are you looking for a developer?
-#### Send me an email: <a href="mailto:hello@kk.dev">hello@kk.dev</a> or reach out to me via my <a href="https://kk.dev/#contact">website</a>
+#### Send me an email: <a href="mailto:hello@kristiankramer.dev">hello@kristiankramer.dev</a> or reach out to me via my <a href="https://kristiankramer.dev/#contact">website</a>
 
 ### 😀 Like what I'm doing and want to support me?
-#### <a href="https://kk.dev/donate">My donations page</a>
+#### <a href="https://kristiankramer.dev/donate">My donations page</a>
 
 <a href="https://www.buymeacoffee.com/kristiankramer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="175"></a>
