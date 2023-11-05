@@ -46,7 +46,6 @@
 | [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers, helping developers since 2020.
 | [BeyondFaucet](https://beyondfaucet.com) | Multi-coin faucet for new and experienced crypto users to explore the crypto universe.
 | [Duino-Coin](https://duinocoin.com) | A cryptocurrency that can be mined with low-powered microcontrollers such as the Arduino.
-| [HelloESP.com](https://helloesp.com) | A public website hosted on an ESP32 which has been online since 2022.
 
 I have many other projects that are not listed here.
 
