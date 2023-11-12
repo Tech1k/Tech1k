@@ -59,7 +59,7 @@ I have many other projects that are not listed here.
 </a>
 
 ### ❔ Have a question, want to collaborate or are you looking for a developer?
-#### Send me an email: <a href="mailto:hello@kristiankramer.dev">hello@kristiankramer.dev</a> or reach out to me via my <a href="https://kristiankramer.dev/#contact">website</a>
+#### Send me an email: <a href="mailto:hello@kristiankramer.dev">hello@kristiankramer.dev</a>
 
 ### 😀 Like what I'm doing and want to support me?
 #### <a href="https://kristiankramer.dev/donate">My donations page</a>
