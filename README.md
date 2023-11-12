@@ -38,7 +38,6 @@
 - Twitter: <a href="https://twitter.com/kristianjkramer" target="_blank">@KristianJKramer</a>
 - Reddit: <a href="https://reddit.com/u/tech1k" target="_blank">@Tech1k</a>
 - Linkedin: <a href="https://linkedin.com/in/kristian-kramer" target="_blank">Kristian Kramer</a>
-- Medium: <a href="https://medium.com/@kristianjkramer" target="_blank">@KristianJKramer</a>
 
 ### 👨‍💻 Public projects I'm currently involved in
 | Projects | Info
