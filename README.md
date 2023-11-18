@@ -42,8 +42,7 @@
 ### 👨‍💻 Public projects I'm currently involved in
 | Projects | Info
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|
-| [Testnet Faucet](https://testnet-faucet.com) | A multi-coin testnet faucet for developers, helping developers since 2020.
-| [BeyondFaucet](https://beyondfaucet.com) | Multi-coin faucet for new and experienced crypto users to explore the crypto universe.
+| [BeyondFaucet](https://beyondfaucet.com) | Formerly known as testnet-faucet.com, BeyondFaucet is a multi-coin faucet for new and experienced crypto users to explore the crypto universe and has been helping developers since 2020.
 | [Duino-Coin](https://duinocoin.com) | A cryptocurrency that can be mined with low-powered microcontrollers such as the Arduino.
 
 I have many other projects that are not listed here.
