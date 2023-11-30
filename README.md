@@ -19,9 +19,6 @@
   <img align="left" alt="Email" width="30px" height="30px" src="https://kristiankramer.dev/assets/images/mail.png" />
 </a>
 <br />
-<br />
-
-![Kristian Kramer](kristian-og-banner-github.png?v=2)
 
 ### I'm an 18 year old full stack programmer and more based in Colorado
 
