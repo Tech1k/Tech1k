@@ -4,19 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tech1k&label=Profile%20views&color=0e75b6&style=flat" alt="Tech1k" /> </p>
 
 <a href="https://kristiankramer.dev">
-  <img align="left" alt="Website" width="30px" height="30px" src="https://kristiankramer.dev/assets/img/website.png" />
+  <img align="left" alt="Website" width="30px" height="30px" src="https://kristiankramer.dev/assets/images/website.png" />
 </a>
 <a href="https://twitter.com/kristianjkramer">
-  <img align="left" alt="Twitter" width="30px" height="30px" src="https://kristiankramer.dev/assets/img/twitter.png" />
+  <img align="left" alt="Twitter" width="30px" height="30px" src="https://kristiankramer.dev/assets/images/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/kristian-kramer/">
-  <img align="left" alt="Linkedin" width="30px" height="30px" src="https://kristiankramer.dev/assets/img/linkedin.png" />
+  <img align="left" alt="Linkedin" width="30px" height="30px" src="https://kristiankramer.dev/assets/images/linkedin.png" />
 </a>
 <a href="https://reddit.com/u/tech1k">
-  <img align="left" alt="Reddit" width="30px" height="30px" src="https://kristiankramer.dev/assets/img/reddit.png" />
+  <img align="left" alt="Reddit" width="30px" height="30px" src="https://kristiankramer.dev/assets/images/reddit.png" />
 </a>
 <a href="mailto:hello@kristiankramer.dev">
-  <img align="left" alt="Email" width="30px" height="30px" src="https://kristiankramer.dev/assets/img/mail.png" />
+  <img align="left" alt="Email" width="30px" height="30px" src="https://kristiankramer.dev/assets/images/mail.png" />
 </a>
 <br />
 <br />
