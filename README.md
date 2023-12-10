@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tech1k&label=Profile%20views&color=0e75b6&style=flat" alt="Tech1k" /> </p>
 
-<a href="https://kristiankramer.dev">
+<a href="https://kristiankramer.net">
   <img align="left" alt="Website" width="30px" height="30px" src="assets/website.png" />
 </a>
 <a href="https://twitter.com/kristianjkramer">
@@ -15,7 +15,7 @@
 <a href="https://reddit.com/u/tech1k">
   <img align="left" alt="Reddit" width="30px" height="30px" src="assets/reddit.png" />
 </a>
-<a href="mailto:hello@kristiankramer.dev">
+<a href="mailto:hello@kristiankramer.net">
   <img align="left" alt="Email" width="30px" height="30px" src="assets/mail.png" />
 </a>
 <br />
@@ -31,7 +31,7 @@
 
 ### 🌐 Links
 
-- Website: <a href="https://kristiankramer.dev" target="_blank">kristiankramer.dev</a>
+- Website: <a href="https://kristiankramer.net" target="_blank">kristiankramer.net</a>
 - Twitter: <a href="https://twitter.com/kristianjkramer" target="_blank">@KristianJKramer</a>
 - Reddit: <a href="https://reddit.com/u/tech1k" target="_blank">@Tech1k</a>
 - Linkedin: <a href="https://linkedin.com/in/kristian-kramer" target="_blank">Kristian Kramer</a>
@@ -55,9 +55,9 @@ I have many other projects that are not listed here.
 </a>
 
 ### ❔ Have a question, want to collaborate or are you looking for a developer?
-#### Send me an email: <a href="mailto:hello@kristiankramer.dev">hello@kristiankramer.dev</a>
+#### Send me an email: <a href="mailto:hello@kristiankramer.net">hello@kristiankramer.net</a>
 
 ### 😀 Like what I'm doing and want to support me?
-#### <a href="https://kristiankramer.dev/donate">My donations page</a>
+#### <a href="https://kristiankramer.net/donate">My donations page</a>
 
 <a href="https://www.buymeacoffee.com/kristiankramer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="175"></a>
