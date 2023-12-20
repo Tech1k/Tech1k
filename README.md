@@ -44,15 +44,6 @@
 
 I have many other projects that are not listed here.
 
-### 📈 Public Stats
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tech1k&show_icons=true?count_private=true&theme=algolia" alt="github stats" />
-</a>
-<br/><br/>
-<a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tech1k&theme=dark" alt="github streak stats" />
-</a>
 
 ### ❔ Have a question, want to collaborate or are you looking for a developer?
 #### Send me an email: <a href="mailto:hello@kristiankramer.net">hello@kristiankramer.net</a>
