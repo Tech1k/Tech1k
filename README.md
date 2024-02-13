@@ -20,7 +20,9 @@
 </a>
 <br />
 
+
 ### I'm an 18 year old full stack programmer and more based in Colorado
+
 
 ### ⚡️ Technical Skills
 - Experienced in C++, C, C#, Java, JavaScript, PHP, Bash, and more. 
@@ -29,20 +31,13 @@
 - Database experience with MySQL, SQL, SQLite, LevelDB, Redius, and MongoDB.
 - Knowledgeable about blockchain/cryptography and their implementations.
 
+
 ### 🌐 Links
 
 - Website: <a href="https://kristiankramer.net" target="_blank">kristiankramer.net</a>
 - Twitter: <a href="https://twitter.com/kristianjkramer" target="_blank">@KristianJKramer</a>
 - Reddit: <a href="https://reddit.com/u/tech1k" target="_blank">@Tech1k</a>
 - Linkedin: <a href="https://linkedin.com/in/kristian-kramer" target="_blank">Kristian Kramer</a>
-
-### 👨‍💻 Public projects I'm currently involved in
-| Projects | Info
-|--------------------------------------------------|------------------------------------------------------------------------------------------------|
-| [BeyondFaucet](https://beyondfaucet.com) | Formerly known as testnet-faucet.com, BeyondFaucet is a multi-coin faucet for new and experienced crypto users to explore the crypto universe and has been helping developers since 2020.
-| [Duino-Coin](https://duinocoin.com) | A cryptocurrency that can be mined with low-powered microcontrollers such as the Arduino.
-
-I have many other projects that are not listed here.
 
 
 ### ❔ Have a question, want to collaborate or are you looking for a developer?
