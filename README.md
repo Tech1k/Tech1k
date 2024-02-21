@@ -43,6 +43,7 @@
 ### ❔ Have a question, want to collaborate or are you looking for a developer?
 #### Send me an email: <a href="mailto:hello@kristiankramer.net">hello@kristiankramer.net</a>
 
+
 ### 😀 Like what I'm doing and want to support me?
 
 <a href="https://www.paypal.com/donate/?business=97MPXVAHRSMMJ&amp;no_recurring=0&amp;currency_code=USD" target="_blank"><img src="assets/paypal-button.png" alt="PayPal" width="175"></a>
