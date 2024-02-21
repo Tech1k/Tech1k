@@ -44,6 +44,7 @@
 #### Send me an email: <a href="mailto:hello@kristiankramer.net">hello@kristiankramer.net</a>
 
 ### 😀 Like what I'm doing and want to support me?
-#### <a href="https://kristiankramer.net/donate">My donations page</a>
+
+<a href="https://www.paypal.com/donate/?business=97MPXVAHRSMMJ&amp;no_recurring=0&amp;currency_code=USD" target="_blank"><img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="PayPal" width="175"></a>
 
 <a href="https://www.buymeacoffee.com/kristiankramer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="175"></a>
