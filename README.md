@@ -6,14 +6,8 @@
 <a href="https://kristiankramer.net">
   <img align="left" alt="Website" width="30px" height="30px" src="assets/website.png" />
 </a>
-<a href="https://twitter.com/kristianjkramer">
-  <img align="left" alt="Twitter" width="30px" height="30px" src="assets/twitter.png" />
-</a>
 <a href="https://www.linkedin.com/in/kristian-kramer/">
   <img align="left" alt="Linkedin" width="30px" height="30px" src="assets/linkedin.png" />
-</a>
-<a href="https://reddit.com/u/tech1k">
-  <img align="left" alt="Reddit" width="30px" height="30px" src="assets/reddit.png" />
 </a>
 <a href="mailto:hello@kristiankramer.net">
   <img align="left" alt="Email" width="30px" height="30px" src="assets/mail.png" />
@@ -35,8 +29,6 @@
 ### 🌐 Links
 
 - Website: <a href="https://kristiankramer.net" target="_blank">kristiankramer.net</a>
-- Twitter: <a href="https://twitter.com/kristianjkramer" target="_blank">@KristianJKramer</a>
-- Reddit: <a href="https://reddit.com/u/tech1k" target="_blank">@Tech1k</a>
 - Linkedin: <a href="https://linkedin.com/in/kristian-kramer" target="_blank">Kristian Kramer</a>
 
 
