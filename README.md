@@ -15,7 +15,7 @@
 <br />
 
 
-### I'm an 18 year old full stack programmer and more based in Colorado
+### I'm an 19 year old full stack programmer and more based in Colorado
 
 
 ### ⚡️ Technical Skills
