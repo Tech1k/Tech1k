@@ -38,6 +38,4 @@
 
 ### 😀 Like what I'm doing and want to support me?
 
-<a href="https://www.paypal.com/donate/?business=97MPXVAHRSMMJ&amp;no_recurring=0&amp;currency_code=USD" target="_blank"><img src="assets/paypal-button.png" alt="PayPal" width="175"></a>
-
 <a href="https://www.buymeacoffee.com/kristiankramer" target="_blank"><img src="assets/buymeacoffee-button.png" alt="Buy Me A Coffee" height="41" width="175"></a>
